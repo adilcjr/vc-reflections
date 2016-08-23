@@ -2,25 +2,34 @@
 
 	It creates the .git directory to keep version files from the repository. 
 
-How is the staging area different from the working directory and the repository?
+2) How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 	The working directory have all files that you directly change. Staging area 
 	have files that you marked to commit. And respository is online and have 
 	all file versions that you commited.
 
-How can you use the staging area to make sure you have one commit per logical
+3) How can you use the staging area to make sure you have one commit per logical
 change?
 
-	
+	You could add only files for the logical change before commit to repository.
 
-What are some situations when branches would be helpful in keeping your history
+4) What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-How do the diagrams help you visualize the branch structure?
+	Branches are helpful to let the master ok when we need to make some sensible 
+	change or when we need a different version of the same application.
 
-What is the result of merging two branches together? Why do we represent it in
+5) How do the diagrams help you visualize the branch structure?
+
+	You could see the entire branch tree and find new features and fixes for your branch.
+
+6) What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+    You unify the code of branches. We need to represent to know the parents of each version.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+    Automatic merges could bring some bugs to code but manual merges is more painfull to do.
