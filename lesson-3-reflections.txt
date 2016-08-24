@@ -11,3 +11,8 @@ Because the remote repository could have some changes that you don't need to mer
 	Fork you use when you would like to take some code and use, change and you don't think in share your progress to author.
 	Clone you could help and share your modifications with the author.
 	Branches you use to make some changes like fixes or different versions of the same project.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You can improve the code, try some refactorings without worrying about damage the code.
+
