@@ -16,3 +16,9 @@ Because the remote repository could have some changes that you don't need to mer
 
 	You can improve the code, try some refactorings without worrying about damage the code.
 
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Using another version control or separating the development in different modules for each developer. 
+	Some concepts from git are harder to understand but I think it's easier than other version control 
+	when you have some experience.
+	
