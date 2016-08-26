@@ -22,3 +22,7 @@ Because the remote repository could have some changes that you don't need to mer
 	Some concepts from git are harder to understand but I think it's easier than other version control 
 	when you have some experience.
 	
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	Everytime I'm working in a new feature or a change that could break the master code.
